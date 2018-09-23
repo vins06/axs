@@ -1,3 +1,5 @@
+#!/bin/bash
+
 cd /root
 # mkdir .zoo11
 cp -a -i .zoo00 .zoo11
