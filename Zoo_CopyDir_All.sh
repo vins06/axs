@@ -1,6 +1,6 @@
 #!/bin/bash
-
-cd /root
+echo "do"
+# cd /root
 # mkdir .zoo11
 cp -a -i .zoo00 .zoo11
 cp -a -i .zoo00 .zoo12
